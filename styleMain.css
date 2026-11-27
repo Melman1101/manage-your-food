@@ -1,14 +1,16 @@
 	body{
 		font-family: Times New Roman;
 		color: black;
-		margin: 0;
+		margin-bottom: -10px;
+		margin-top: 250px;
 		padding: 0;
 		background-color: white;
 	}
     h1{
+		font-family: copperplate gothic;
 		color:black;
 		text-align: center;
-		background-color: rgb(187, 252, 187);
+		background: linear-gradient(to top, transparent 35% , rgb(187, 252, 187) 55%);
 		font-size: 55px;
         padding: 10px;
 	}
@@ -30,8 +32,8 @@
 
 	}
 	nav li{
-		background-color: grey;
-		color:white;
+		background-color: white;
+		color:black;
 		padding: 14px 25px;
 	}
     .navLink{
