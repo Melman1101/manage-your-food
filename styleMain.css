@@ -9,13 +9,13 @@
 		top:0;
 		width:100%;
 		margin:0;
+		background: linear-gradient(to top, transparent 35% , rgb(6, 255, 222) 55%);
 
 	}
     h1{
 		font-family: copperplate gothic;
 		color:black;
 		text-align: center;
-		background: linear-gradient(to top, transparent 35% , rgb(187, 252, 187) 55%);
 		font-size: 55px;
         padding: 10px;
 	}
